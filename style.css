@@ -76,20 +76,13 @@ li{
 
 li:hover{
     background-color: hsl(0, 0%, 8%);
+    color: hsl(75, 94%, 57%);
 }
 
 a{
     color: white;
     text-decoration: none;
 }
-li:hover a{
-    color: hsl(75, 94%, 57%);
-}
-
-
-
-
-
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
